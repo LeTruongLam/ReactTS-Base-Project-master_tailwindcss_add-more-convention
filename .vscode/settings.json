@@ -1,0 +1,27 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "better-comments.multilineComments": true,
+  "better-comments.highlightPlainText": false,
+  "colorize.languages": [
+    "typescript",
+    "javascript",
+    "css",
+    "scss",
+    "javascriptreact",
+    "typescriptreact"
+  ],
+  "tailwindCSS.classAttributes": [
+    "ngClass",
+    "variants",
+    "cn",
+    "cva",
+    ".*Variants.*",
+    ".*class.*",
+    ".*className.*",
+    ".*classNames.*",
+    ".*Class.*",
+    ".*Classes.*",
+    ".*ClassNames.*",
+    ".*ClassName.*"
+  ]
+}
